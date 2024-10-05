@@ -10,8 +10,7 @@
     "frequency_affiliate": "0"
   },
   "extra": {
-    "privacyPolicy": "https://sites.google.com/view/dhaniloanguide/home",
-    "contactUS": "https://forms.gle/xYmqxgq9CjuV8xuM9",
+    "privacyPolicy": "https://raw.githubusercontent.com/swetdankhara/ffdiamondtool/refs/heads/main/privacypolicy.txt",
     "extrascreen": "0",
     "bannerTimer": 5000,
     "affiliate_url": "null",

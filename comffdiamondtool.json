@@ -1,7 +1,7 @@
 {
   "status": {
-    "appname": "FFDiamondTool",
-    "adstatus": 1
+    "appname": "FF Diamond Tool",
+    "adstatus": 0
   },
   "frequency_capping": {
     "frequency_banner": "0",
@@ -13,10 +13,8 @@
     "privacyPolicy": "https://sites.google.com/view/dhaniloanguide/home",
     "contactUS": "https://forms.gle/xYmqxgq9CjuV8xuM9",
     "extrascreen": "0",
-    "nativebtn_up": 1,
     "bannerTimer": 5000,
-    "nativeclickupgrade": 1,
-    "affiliate_url": "https://1104.go.mglgamez.com/pregames",
+    "affiliate_url": "null",
     "userTracking": 0,
     "userTrackingURL": "",
     "userTrackingType": 0,

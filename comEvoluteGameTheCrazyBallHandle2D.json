@@ -11,6 +11,7 @@
   },
   "extra": {
     "privacyPolicy": "https://raw.githubusercontent.com/swetdankhara/ffdiamondtool/refs/heads/main/privacypolicy.txt",
+    "ffcontactUS": "https://raw.githubusercontent.com/swetdankhara/ffdiamondtool/refs/heads/main/privacypolicy.txt",
     "extrascreen": "0",
     "bannerTimer": 5000,
     "affiliate_url": "null",

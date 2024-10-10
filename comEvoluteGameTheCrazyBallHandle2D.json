@@ -1,0 +1,44 @@
+{
+  "status": {
+    "appname": "FF Diamond Tool",
+    "adstatus": 0
+  },
+  "frequency_capping": {
+    "frequency_banner": "0",
+    "frequency_native": "0",
+    "frequency_interstitial": "0",
+    "frequency_affiliate": "0"
+  },
+  "extra": {
+    "privacyPolicy": "https://raw.githubusercontent.com/swetdankhara/ffdiamondtool/refs/heads/main/privacypolicy.txt",
+    "extrascreen": "0",
+    "bannerTimer": 5000,
+    "affiliate_url": "null",
+    "userTracking": 0,
+    "userTrackingURL": "",
+    "userTrackingType": 0,
+    "fbAppID": "1470962580275628",
+    "fbClientID": "d6118464cccf48b190e2b97705e5d47f",
+    "collapsizeBanner": 1
+  },
+  "custom_banner": [
+    {
+      "adIcon": "https://lh3.googleusercontent.com/NGnSwlBTxyJagmDl9-RwKVlYHz9et2RZ0PkOYWUwiQzCRdOWo36xDMwCK-h1NNEQ5Q=h512",
+      "adTitle": "LoanCash : EMI Loan Calculator",
+      "adBanner": "https://lh3.googleusercontent.com/2G6FWHQsEQjow_gbDPrYKMTay9mmHM2iwYodZiTC9lr3VNmiEj_WrZLdNLYbapBTUcE=h500",
+      "adBannerIOG": true,
+      "adButtonName": "Install",
+      "adActionURL": "https://play.google.com/store/apps/details?id=com.finance.loancash.gst.fb.loancalculator",
+      "adApporWeb": true
+    },
+    {
+      "adIcon": "https://lh3.googleusercontent.com/y_P7fqu6UQG3XOf2C5CjqiztOfUx-ur10gCWLafjBviVQbdzGlVluYBokX-em33DRw=h512",
+      "adTitle": "PayKash by Play Games",
+      "adBanner": "https://lh3.googleusercontent.com/gmDsyw1cLeTB0355sHs4k9bm95AxN_vfu4Ana-_xWrFPI_eTKl6IvRaz3ta_khrBtgI=h512",
+      "adBannerIOG": true,
+      "adButtonName": "Click Here",
+      "adActionURL": "https://1104.go.mglgamez.com/pregames",
+      "adApporWeb": false
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "status": {
     "appname": "FF Diamond Tool",
-    "adstatus": 1
+    "adstatus": 0
   },
   "frequency_capping": {
     "frequency_banner": "0",
